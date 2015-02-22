@@ -1,9 +1,9 @@
 Variables in the resulting data set:
 
-*subject*
+### subject ###
 Test subject number
 
-*activity*
+### activity ###
 Name of the tested activity
 
 The rest of the columns contain the means of corresponding observations for the subject and activity.
